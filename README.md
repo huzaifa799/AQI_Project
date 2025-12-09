@@ -68,7 +68,7 @@ Based on the current analysis, the following areas are identified for future wor
 ## 📞 Contact
 * **Project Duration:** July 2022 - December 2025
 * **Last Updated:** December 2025
-* **Author:** [Your Name]
+* **Author:** Muhammad Huzaifa Khalid
 
 ---
 *This analysis aims to support environmental policy decisions and increase public awareness regarding the critical issue of air pollution.*
